@@ -1,0 +1,5 @@
+1.- npm install
+2.- npm run dev, tiene vite instalado
+
+3.- Defino el fichero App.jsx
+4.- Defino pagina pages/index.jsx donde establezco las páginas públicas y privadas
